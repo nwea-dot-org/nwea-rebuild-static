@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>36 Archives - NWEA</title>
+	<atom:link href="/research/collection/36/feed/" rel="self" type="application/rss+xml" />
+	<link>/research/collection/36/</link>
+	<description></description>
+	<lastBuildDate>Mon, 24 May 2021 20:13:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<item>
+		<title>Avoiding bias from sum scores in growth estimates: An examination of IRT-based approaches to scoring longitudinal survey responses</title>
+		<link>/research/publication/avoiding-bias-from-sum-scores-in-growth-estimates/</link>
+		
+		<dc:creator><![CDATA[jake.weston]]></dc:creator>
+		<pubDate>Mon, 24 May 2021 20:13:53 +0000</pubDate>
+				<guid isPermaLink="false">https://prd.cms.nwea.io/research/publication/avoiding-bias-from-sum-scores-in-growth-estimates/</guid>
+
+					<description><![CDATA[<p>The post <a rel="nofollow" href="/research/publication/avoiding-bias-from-sum-scores-in-growth-estimates/">Avoiding bias from sum scores in growth estimates: An examination of IRT-based approaches to scoring longitudinal survey responses</a> appeared first on <a rel="nofollow" href="/">NWEA</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="/research/publication/avoiding-bias-from-sum-scores-in-growth-estimates/">Avoiding bias from sum scores in growth estimates: An examination of IRT-based approaches to scoring longitudinal survey responses</a> appeared first on <a rel="nofollow" href="/">NWEA</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Estimating student growth on psychological and social-emotional constructs: A comparison of multiple scoring approaches</title>
+		<link>/research/publication/estimating-student-growth-on-psychological-and-social-emotional-constructs-a-comparison-of-multiple-scoring-approaches/</link>
+		
+		<dc:creator><![CDATA[jake.weston]]></dc:creator>
+		<pubDate>Fri, 27 Mar 2020 21:41:56 +0000</pubDate>
+				<guid isPermaLink="false">https://prd.cms.nwea.io/research/publication/estimating-student-growth-on-psychological-and-social-emotional-constructs-a-comparison-of-multiple-scoring-approaches/</guid>
+
+					<description><![CDATA[<p>The post <a rel="nofollow" href="/research/publication/estimating-student-growth-on-psychological-and-social-emotional-constructs-a-comparison-of-multiple-scoring-approaches/">Estimating student growth on psychological and social-emotional constructs: A comparison of multiple scoring approaches</a> appeared first on <a rel="nofollow" href="/">NWEA</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="/research/publication/estimating-student-growth-on-psychological-and-social-emotional-constructs-a-comparison-of-multiple-scoring-approaches/">Estimating student growth on psychological and social-emotional constructs: A comparison of multiple scoring approaches</a> appeared first on <a rel="nofollow" href="/">NWEA</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
